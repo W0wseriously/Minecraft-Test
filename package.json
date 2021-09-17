@@ -1,0 +1,13 @@
+{
+  "name": "factionpublic-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Brashive",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.4.1",
+    "discord.js-pagination": "^1.0.2",
+    "lowdb": "^1.0.0"
+  }
+}
